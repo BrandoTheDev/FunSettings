@@ -1,5 +1,5 @@
 # ***Fun Settings***
-> Run and gun and mostly have fun changes for Single Player Tarkov (SPT).
+> Run and gun and mostly have fun changes for [Single Player Tarkov (SPT).](https://hub.sp-tarkov.com/files/file/1311-fun-settings/)
 
 |<img src="hub/WeaponRestrictions.PNG" width="300" height="300">|<img src="hub/GearRestrictions.PNG" width="300" height="300">|<img src="hub/GearRestrictions2.PNG" width="300" height="300">|<img src="hub/Stacks.PNG" width="300" height="300">|
 |<img src="hub/CostRoubles.PNG" width="300" height="300">|<img src="hub/AllOutfits.PNG" width="300" height="300">|<img src="hub/DisableSections.PNG" width="300" height="300">|<img src="hub/ShowOptions.PNG" width="300" height="300">|
