@@ -1,0 +1,51 @@
+{
+    "showOptions": true,
+    "Hideout": {
+        "Enabled": true,
+        "ProductionTime": 1,
+        "ProductionCostRoubles": true,
+        "AreaNeedsFuel": false,
+        "AreaNeedsRequirements": false,
+        "AreaMaxWhenUpgraded": true,
+        "AreaConstructionTime": 1,
+        "AreaCostMaterial": false
+    },
+    "Scavcase": {
+        "Enabled": true,
+        "CostRoubles": true,
+        "InstantProduction": true
+    },
+    "Traders": {
+        "Enabled": true,
+        "unlockAll": true,
+        "maxLoyaltyLevel": true,
+        "allOutfitsUnlocked": true,
+        "freeTherapistHealing": true
+    },
+    "PMC": {
+        "Enabled": true,
+        "disableFallDamage": true,
+        "superLongSprinting": true
+    },
+    "Weapons": {
+        "Enabled": true,
+        "disableRestrictions": true,
+        "CanJamOrMalfunction": false,
+        "CanLoseDurability": false,
+        "superFastMagazineReload": true
+    },
+    "Ammo": {
+        "Enabled": true,
+        "bulletStackSize": 3000,
+        "buckshotStackSize": 3000,
+        "grenadeStackSize": 3000,
+        "weightlessAmmo": true
+    },
+    "Misc": {
+        "Enabled": true,
+        "freeLabsEntrance": true,
+        "unlimitedKeyUses": true,
+        "allItemsExamined": true,
+        "disableGearRestrictions": true
+    }
+}
