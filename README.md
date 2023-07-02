@@ -33,6 +33,7 @@
 - ***Enabled***: Enable or disable these Trader options
 - ***unlockAll***: Unlocks all Traders (Gives Jaeger right away)
 - ***maxLoyaltyLevel***: Increase your standing to max level
+- ***AllOutfitsUnlocked***: Unlock all outfits for your bear or usec
 - ***freeTherapistHealing***: Free healing after raids on the healing screen 
 
 ### ***PMC***
