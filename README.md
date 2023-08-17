@@ -3,7 +3,7 @@
 
 > Images are shrunk to be thumbnails, please click any image for a better viewing.
 
-|<img src="hub/WeaponRestrictions.PNG" width="300" height="300">|<img src="hub/GearRestrictions.PNG" width="300" height="300">|<img src="hub/GearRestrictions2.PNG" width="300" height="300">|<img src="hub/Stacks.PNG" width="500" height="300">|
+|<img src="hub/WeaponRestrictions.PNG" width="300" height="300">|<img src="hub/GearRestrictions.PNG" width="300" height="300">|<img src="hub/GearRestrictions2.PNG" width="300" height="300">|<img src="hub/Stacks.PNG" width="300" height="300">|
 |<img src="hub/CostRoubles.PNG" width="300" height="300">|<img src="hub/AllOutfits.PNG" width="300" height="300">|<img src="hub/DisableSections.PNG" width="300" height="300">|<img src="hub/ShowOptions.PNG" width="300" height="300">|
 
 
